@@ -1,2 +1,2 @@
 # Drum-Kit
-Virtual drum using JavaScript
+Drum Kit: Unleash your inner drummer with this web-based drum kit, crafted with HTML, CSS, and JavaScript. The intuitive interface lets you create music by clicking drum buttons or pressing corresponding keys on your keyboard. Each button represents a unique drum sound, making it a fun and interactive way to explore percussion. Click or press keys to trigger sounds like crash, kick, snare, and more. The app is not only a musical playground but also a fantastic learning tool for rhythm and beats. Experience the joy of drumming without the need for a physical drum set.
